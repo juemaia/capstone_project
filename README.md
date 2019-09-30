@@ -7,4 +7,4 @@ Drivvo is a mobile app to record and keep track of vehicle expenses and keep on 
 
 The main objective of this project was to add value to the app by predicting when the vehicle would  need its next oil change using regression models.
 
-More detailed information on the project and its processes can be found on the summary description and capstone presentation.
+More detailed information on the project and its processes can be found on the [summary description](https://github.com/juemaia/capstone_project/tree/master/summary) and capstone presentation.
